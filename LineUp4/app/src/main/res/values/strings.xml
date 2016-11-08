@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LineUp4</string>
+    <string name="start_string">Start!</string>
+    <string name="choose_game">Choose game:</string>
+    <string name="find_game">Find Game</string>
+    <string name="go_to_board">Go to Board</string>
+
+    <string name="player1_name">Player 1</string>
+    <string name="player2_name">Player 2</string>
+</resources>
